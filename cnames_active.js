@@ -3061,6 +3061,7 @@ var cnames_active = {
   "simpler-state": "arnelenero.github.io/simpler-state",
   "simples": "micnic.github.io/simples",
   "simplesnake": "aktindo.github.io/Simple_Snake_Game",
+  "silverarch": "iyed-one-st.github.io/silverarch-repo",
   "simplestate": "nlcgits.github.io/simplestate",
   "simply": "fehmi.github.io/simply",
   "simplyd": "simplyd.netlify.app",
